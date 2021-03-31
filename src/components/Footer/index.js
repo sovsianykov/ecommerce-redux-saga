@@ -5,7 +5,7 @@ const Footer =() => {
     return (
         <footer className='footer'>
            <div className="wrapper">
-
+               © Sergey's shop 2021
            </div>
         </footer>
     )
